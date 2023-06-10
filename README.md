@@ -17,7 +17,8 @@ This program depends on the following Python packages:
 * time (sleep)
 * PySimpleGUI
 
-Note: These packages can be installed using pip.
+To install most python dependencies easily, run the following command (Some may need to be installed manually):
+pip install -r requirements.txt
 
 # Usage
 1. Run the program using Python.
